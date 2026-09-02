@@ -4,7 +4,7 @@ Taller IV : Problema y Concepto
 
 ## Primer día
 
-En esta primera clase comenzamos presentándonos entre todos para conocernos un poco más. También los profesores nos explicaron cómo funcionaría el taller y algunas cosas importantes que tenemos que considerar durante el semestre.
+En esta primera clase los profes se prestentaron. También nos explicaron cómo funcionaría el taller y algunas cosas importantes que tenemos que considerar durante el semestre.
 
 Una noticia que personalmente me hizo muy feliz fue que nos recomendaron llegar a las **9:00 en vez de las 8:30** jajaja, así que por suerte yo feliz 🤭.
 
