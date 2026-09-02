@@ -1,6 +1,6 @@
 # Bitacora-
 Taller IV : Problema y Concepto 
-# 🌥️ CLASE 01 — 10/08/2026
+# CLASE 01 — 10/08/2026
 
 ## Primer día
 
@@ -27,7 +27,7 @@ Una frase que anoté porque siento que resume bastante bien la forma en que quie
 
 ---
 
-# 🧠 Ideas y temas de la clase
+# Ideas y temas de la clase
 
 Durante la clase también aparecieron diferentes temas que me llamaron mucho la atención.
 
@@ -66,7 +66,7 @@ También nos recomendaron ir a buscar algunos componentes a **San Diego**, espec
 
 ---
 
-# ⚡  Crear un artefacto
+#  Crear un artefacto
 
 El primer encargo del taller fue:
 
@@ -92,15 +92,15 @@ Entonces comencé a pensar en un circuito inspirado en esa idea y, como todavía
 
 Le expliqué más o menos el concepto que tenía en mi cabeza y me generó una propuesta de circuito que encontré **demasiado cool** 😭☁️✨.
 
-## 🖼️ Referencia visual de mi primera idea
+## Referencia visual de mi primera idea
 
 <!-- AGREGAR AQUÍ IMAGEN DEL CIRCUITO NEBULOSO -->
 
-> 💭 **Primera propuesta:** un circuito inspirado en la sensación de las nubes y lo nebuloso.
+> **Primera propuesta:** un circuito inspirado en la sensación de las nubes y lo nebuloso.
 
 ---
 
-## 😭 El problema con mi idea
+##  El problema con mi idea
 
 El problema fue que, aunque visualmente la idea me parecía increíble, **yo no tenía idea de cómo hacer algo así realmente**. Empecé a investigar y me di cuenta de que todavía no conocía bien los componentes que necesitaría ni cómo funcionaban muchas de las cosas que aparecían en la propuesta.
 
@@ -116,7 +116,7 @@ Primero necesito aprender cómo funcionan los componentes y después quizás pue
 
 ---
 
-# 🔊 NUESTRA NUEVA IDEA — LA MOLESTIA DEL RUIDO
+#  NUESTRA NUEVA IDEA — LA MOLESTIA DEL RUIDO
 
 Después de dejar un poco de lado mi primera idea, comenzamos a conversar con mi compañera para encontrar un concepto que nos representara a las dos.
 
