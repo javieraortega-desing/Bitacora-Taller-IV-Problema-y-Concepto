@@ -93,7 +93,7 @@ Le expliqué más o menos el concepto que tenía en mi cabeza y me generó una p
 
 <img src="imagen_circuito-nebuloso.jpeg" width="500">
 
-> **Primera propuesta:** un circuito inspirado en la sensación de las nubes y lo nebuloso.
+> **Primera propuesta:** 
 
 ---
 
