@@ -43,7 +43,7 @@ Por cierto: **los profesores me cayeron súper bien** .
 
 ---
 
-# 🛒 TAREA 01 — Comprar componentes
+# TAREA 01 — Comprar componentes
 
 Para comenzar a trabajar con electrónica, nos pidieron conseguir algunos componentes básicos:
 
