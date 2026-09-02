@@ -91,7 +91,7 @@ Le expliqué más o menos el concepto que tenía en mi cabeza y me generó una p
 
 ## Referencia visual de mi primera idea
 
-![Circuito nebuloso](imagenes_circuito-nebuloso.jpeg)
+(imagenes_circuito-nebuloso.jpeg)
 
 > **Primera propuesta:** un circuito inspirado en la sensación de las nubes y lo nebuloso.
 
