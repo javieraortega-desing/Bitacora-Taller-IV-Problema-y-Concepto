@@ -89,7 +89,7 @@ Le expliqué más o menos el concepto que tenía en mi cabeza y me generó una p
 
 ## Referencia visual de mi primera idea
 
-![Circuito nebuloso](./imagenes/circuito-nebuloso.jpeg)
+<img src="imagenes/circuito-nebuloso.png" width="500">
 
 > **Primera propuesta:** 
 
