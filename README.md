@@ -73,9 +73,9 @@ Para este trabajo las duplas fueron elegidas al azar por la profesora.
 
 ---
 
-# 🌫️ MI PRIMERA IDEA — EL CIRCUITO NEBULOSO
+# MI PRIMERA IDEA — EL CIRCUITO NEBULOSO
 
-Ese día estaba **nublado** ☁️ y, no sé por qué, pero esa atmósfera se me quedó dando vueltas durante la clase.
+Ese día estaba **nublado**  y, no sé por qué, pero esa atmósfera se me quedó dando vueltas durante la clase.
 
 Cuando nos entregaron el encargo, inmediatamente pensé en intentar crear un circuito que pudiera transmitir esa sensación de algo **nebuloso**, difuso y medio misterioso.
 
