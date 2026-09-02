@@ -59,7 +59,7 @@ Para comenzar a trabajar con electrónica, nos pidieron conseguir algunos compon
 
 Aun que agregamos mas cosas a la lista con mi dupla jj.
 
-También nos recomendaron ir a buscar algunos componentes a **San Diego**, específicamente a una tienda cercana al **Teatro Caupolicán**.
+Nos recomendaron ir a buscar algunos componentes a **San Diego**, específicamente a una tienda cercana al **Teatro Caupolicán**.
 
 ---
 
