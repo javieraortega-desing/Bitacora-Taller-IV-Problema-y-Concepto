@@ -36,10 +36,7 @@ Uno de ellos fue **"El conocimiento secreto" de David Hockney**, además de conv
 Algo que anoté y que me quedó dando vueltas fue:
 
 > ⭐ **Comprender antes de inventar.** ⭐
-
-Siento que esta idea puede ser muy importante durante el taller, porque antes de querer crear algo completamente nuevo, primero necesitamos entender cómo funcionan las cosas, los materiales, los sistemas y las herramientas con las que estamos trabajando.
-
-Por cierto: **los profesores me cayeron súper bien** .
+Por cierto: **los profesores me cayeron súper biennnn** .
 
 ---
 
