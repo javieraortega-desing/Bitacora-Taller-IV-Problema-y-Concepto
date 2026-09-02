@@ -9,10 +9,8 @@
 ---
 
 ### ✦ BITÁCORA
+Esta bitácora contiene mis ideas y procesos de creación de mis proyectos dentro de este taller, cosas como:
 
-Proceso de exploración, experimentación y creación
-en torno al diseño y la interacción digital.
-
-📁 **Clases**
+📁 **Apuntes de clases**
 📁 **Proyectos**
 📁 **Experimentaciones**
