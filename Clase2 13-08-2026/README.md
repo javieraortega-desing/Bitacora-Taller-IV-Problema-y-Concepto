@@ -64,7 +64,7 @@ El proceso fue principalmente de **prueba y error**. A pesar de las primeras fal
 ---
 🍰Mapa Conceptual Artefacto
 
-<img src="imagenes dia2/circuito-final.jpeg" width="180">
+<img src="imagenes dia2/mapa conceptual.png" width="180">
  
 ---
 
