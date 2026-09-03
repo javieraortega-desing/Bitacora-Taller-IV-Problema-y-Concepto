@@ -80,5 +80,5 @@ Por eso, la reacción física del personaje no busca representar rechazo, sino *
 
 **Prototipo Final**
 
-<img src="" width="300">
+<img src="imagenes dia4/prototipo final.jpg" width="300">
 
