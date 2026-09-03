@@ -67,17 +67,17 @@ El proceso fue principalmente de **prueba y error**. A pesar de las primeras fal
 
 ### 01. Primer acercamiento
 
-*Foto del primer intento con protoboard y cables.*
+<img src="imagenes/.jpeg" width="500">
 
 ### 02. Pruebas y fallas
 
-*Fotos de las conexiones que no funcionaron y errores durante el proceso.*
+<img src="imagenes/imagen_circuito-nebuloso.jpeg" width="500">
 
 ### 03. Correcciones
 
-*Fotos del proceso de modificación y prueba del circuito.*
+<img src="imagenes/imagen_circuito-nebuloso.jpeg" width="500">
 
-### 04. Circuito funcional
+### 04. Circuito final
 
-*Foto del circuito final funcionando con el LED y motor vibrador.*
+<img src="imagenes/imagen_circuito-nebuloso.jpeg" width="500">
 
