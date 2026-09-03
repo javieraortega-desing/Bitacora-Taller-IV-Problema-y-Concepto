@@ -14,7 +14,7 @@ Decidimos complicarnos un poco más la vida jaja y llevar la propuesta hacia alg
 
 ##Imagenes generadas por IA de idea inicial
 
-<img src="imagenes/..." width="300">
+<img src="imagenes dia4/Imagenia.png" width="300">
 <img src="imagenes/..." width="300">
 
 ---
