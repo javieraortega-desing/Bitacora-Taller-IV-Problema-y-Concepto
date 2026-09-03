@@ -40,7 +40,7 @@ El micrófono quedó ubicado en un pequeño orificio para que pudiera **detectar
 ##imágenes de proceso 
 
 <div>
-  <img src="imagenes dia4/modelo blender.jpg" width="300">
+  <img src="imagenes dia4/modelo blender.jpg" width="500">
   <img src="imagenes dia4/imprecion3d.jpg" width="300">
 </div>
 ---
