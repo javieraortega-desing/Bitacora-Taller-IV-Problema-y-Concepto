@@ -67,8 +67,8 @@ En esta etapa realizamos las últimas pruebas y ajustes del circuito para **conf
 
 
 <p align="center">
-  <img src="imagenes%20dia3/circuito%20casi%20final.jpeg" width="200">
-  <img src="imagenes%20dia3/circuito%20final.jpeg" width="200">
+  <img src="imagenes%20dia3/circuito%20casi%20final.jpeg" width="400">
+  <img src="imagenes%20dia3/circuito%20final.jpeg" width="400">
   <img src="imagenes%20dia3/circuito-final%20dibujo.jpeg" width="200">
-  <img src="imagenes%20dia3/prueba1.jpeg" width="200">
+  <img src="imagenes%20dia3/prueba1.jpeg" width="400">
 </p>
