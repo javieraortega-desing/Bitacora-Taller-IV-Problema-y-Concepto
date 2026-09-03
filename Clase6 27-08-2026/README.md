@@ -1,6 +1,6 @@
-# 🌥️ DÍA DE LA SOLEMNE 01 — CLASE 06
+# DÍA DE LA SOLEMNE 01 — CLASE 06
 
-## 📅 27 DE AGOSTO DE 2026
+##  27 DE AGOSTO DE 2026
 
 ---
 
@@ -12,9 +12,10 @@ A continuación dejaré algunas fotos de lo que fue nuestra presentación y del 
 
 ---
 
-# 🖼️ FOTO DEL DÍA
+# FOTO DEL DÍA
 
-<!-- AQUÍ AGREGARÉ LAS FOTOS -->
+  <img src="imagenes dia 5/p1.jpeg" width="300">
+
 
 ---
 
@@ -42,7 +43,7 @@ También explicamos cómo funciona nuestro prototipo y cómo la interacción con
 
 A pesar de los problemas que tuvimos antes de presentar, en general **TODO SALIÓ SÚPER BIEN**. 💋
 
-# LAMINA FINAL
+# LAMINA FINAL 
 
 
 El video resultó bien, nuestro discurso también y pudimos presentar nuestro proyecto como lo habíamos planeado.
