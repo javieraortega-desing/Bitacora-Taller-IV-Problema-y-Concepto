@@ -78,27 +78,7 @@ Por eso, la reacción física del personaje no busca representar rechazo, sino *
 
 ---
 
-## Avance del prototipo
-
-Colección de imágenes donde se muestran las diferentes modificaciones y avances realizados en el prototipo.
-
-**Proceso de modelado en Blender**
-
-<img src="imagenes/..." width="300">
-
-**Impresión 3D de las piezas**
-
-<img src="imagenes/..." width="300">
-
-**Circuito antes y después de la protoboard**
-
-<img src="imagenes/..." width="300">
-
-**Prototipo armado**
-
-<img src="" width="300">
-
 **Prototipo Final**
 
-<img src="imagenes/..." width="300">
+<img src="" width="300">
 
