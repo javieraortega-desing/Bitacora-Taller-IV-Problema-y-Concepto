@@ -69,15 +69,3 @@ El proceso fue principalmente de **prueba y error**. A pesar de las primeras fal
 
 <img src="Clase2 13-08-2026/imagenes dia2/prueba1.jpeg" width="500">
 
-### 02. Pruebas y fallas
-
-<img src="imagenes/imagen_circuito-nebuloso.jpeg" width="500">
-
-### 03. Correcciones
-
-<img src="imagenes/imagen_circuito-nebuloso.jpeg" width="500">
-
-### 04. Circuito final
-
-<img src="imagenes/imagen_circuito-nebuloso.jpeg" width="500">
-
