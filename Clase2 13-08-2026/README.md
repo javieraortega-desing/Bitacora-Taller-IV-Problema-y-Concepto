@@ -67,7 +67,7 @@ El proceso fue principalmente de **prueba y error**. A pesar de las primeras fal
 
 ### 01. Primer acercamiento
 
-<img src="imagenes dia2/circuito-final.jpeg" width="300">
-<img src="imagenes dia2/prueba1.jpeg" width="300">
-<img src="imagenes dia2/prueba2.jpeg" width="300">
-<img src="imagenes dia2/prueba3.jpeg" width="300">
+<img src="imagenes dia2/circuito-final.jpeg" width="50">
+<img src="imagenes dia2/prueba1.jpeg" width="50">
+<img src="imagenes dia2/prueba2.jpeg" width="50">
+<img src="imagenes dia2/prueba3.jpeg" width="50">
