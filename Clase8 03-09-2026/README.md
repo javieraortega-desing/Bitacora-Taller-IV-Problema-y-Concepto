@@ -1,5 +1,6 @@
 ##CLASE08 03-09-2026
-APUNTES CLASE (sin edititar aun)
+
+##APUNTES CLASE (sin edititar aun)
 CHARLA 
 invitado emilio tronkoso 
 diseño industrial UNIVERSIDAD MAYOR
