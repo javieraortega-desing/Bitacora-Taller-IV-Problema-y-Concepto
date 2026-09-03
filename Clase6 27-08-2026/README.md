@@ -14,7 +14,7 @@ A continuación dejaré algunas fotos de lo que fue nuestra presentación y del 
 
 # FOTO DEL DÍA
 
-  <img src="imagenes dia 5/p1.jpeg" width="300">
+  <img src="imagenes solemne/foto montaje.jpeg" width="300">
 
 
 ---
@@ -45,7 +45,9 @@ A pesar de los problemas que tuvimos antes de presentar, en general **TODO SALI�
 
 # LAMINA FINAL 
 
+ <img src="imagenes solemne/lámin_Corral_Ortega_page-0001.jpg" width="300">
+
 
 El video resultó bien, nuestro discurso también y pudimos presentar nuestro proyecto como lo habíamos planeado.
 
-Además, fue muy entretenido ver las presentaciones de todos nuestros compañeros porque los proyectos quedaron **SUPEEEER BUENOS**. 😭💗
+Además, fue muy entretenido ver las presentaciones de todos nuestros compañeros porque los proyectos quedaron **SUPEEEER BUENOS**. 💗
