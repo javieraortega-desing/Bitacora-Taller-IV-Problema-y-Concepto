@@ -65,7 +65,7 @@ Nuestras experiencias etiquetan el mundo y nuestros sentidos determinan lo que p
 
 En esta etapa realizamos las últimas pruebas y ajustes del circuito para **confirmar su funcionamiento antes de presentarlo como prototipo**.
 
-<img src="" width="300">
+<img src="imagenes dia3/circuito casi final.jpeg" width="300">
 <img src="" width="300">
 <img src="" width="300">
 
