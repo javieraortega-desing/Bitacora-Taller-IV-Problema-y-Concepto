@@ -67,7 +67,7 @@ El proceso fue principalmente de **prueba y error**. A pesar de las primeras fal
 
 ### 01. Primer acercamiento
 
-<img src="imagenes/.jpeg" width="500">
+<img src="Clase2 13-08-2026/imagenes dia2/prueba1.jpeg" width="500">
 
 ### 02. Pruebas y fallas
 
