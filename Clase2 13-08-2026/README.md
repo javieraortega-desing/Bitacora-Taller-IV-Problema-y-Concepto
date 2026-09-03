@@ -62,6 +62,10 @@ Fue mi primer acercamiento a una **protoboard**, por lo que tuve varias dificult
 El proceso fue principalmente de **prueba y error**. A pesar de las primeras fallas, logramos llegar a un **circuito funcional** que, al recibir una señal de ruido mediante un micrófono, activa una **luz LED y un motor vibrador tipo moneda**.
 
 ---
+🍰Mapa Conceptual Artefacto
+[📄 Ver PDF](   )
+
+---
 
 # FOTOS DEL PROCESO DE EXPLORACIÓN
 
