@@ -63,7 +63,8 @@ El proceso fue principalmente de **prueba y error**. A pesar de las primeras fal
 
 ---
 🍰Mapa Conceptual Artefacto
-[📄 Ver PDF](Corral_Ortega_mapa conceptual .pdf)
+
+<img src="Corral_Ortega_mapa conceptual .pdf" width="500">
  
 ---
 
