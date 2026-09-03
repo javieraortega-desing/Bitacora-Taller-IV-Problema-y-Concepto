@@ -50,7 +50,3 @@ Esta clase estuvo enfocada principalmente en **RECIBIR CORRECCIONES Y PREPARAR T
 # 📖 REFLEXIÓN DEL TEXTO
 
 Durante esta clase también se nos solicitó entregar una reflexión sobre el texto **"Comprender los medios de comunicación: Las extensiones del ser humano"**, escrito por **Marshall McLuhan**.
-
-### ✍️ REFLEXIÓN
-
-> **AQUÍ AGREGARÉ MI REFLEXIÓN SOBRE EL TEXTO.**
