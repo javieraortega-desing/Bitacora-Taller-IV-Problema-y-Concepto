@@ -45,7 +45,7 @@ A pesar de los problemas que tuvimos antes de presentar, en general **TODO SALI�
 
 # LAMINA FINAL 
 
- <img src="imagenes solemne/lámin_Corral_Ortega_page-0001.jpg" width="300">
+ <img src="imagenes solemne/lámin_Corral_Ortega_page-0001.jpg" width="500">
 
 
 El video resultó bien, nuestro discurso también y pudimos presentar nuestro proyecto como lo habíamos planeado.
