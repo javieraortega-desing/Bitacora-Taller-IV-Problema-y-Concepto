@@ -32,3 +32,7 @@ una llamada es una extencion de tu voz los mensajes osn una extencion de tu ment
 hacia donde mas esta dirigido el proyecto 
 tela en base a cobre 
 para trabajar ocno diseños en clinicas hay muchas restricciones entoces en tema de materialidades hay e tneer mucho cuidado 
+
+
+
+chaquta que sinete la musica ++++++
