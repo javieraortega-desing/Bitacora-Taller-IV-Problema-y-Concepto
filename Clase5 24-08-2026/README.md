@@ -13,8 +13,9 @@ Por temas de tiempo, decidimos enfocarnos principalmente en **pegar la cabeza al
 ### AQUÍ AGREGARÉ LAS IMÁGENES DEL PROTOTIPO QUE LLEVAMOS DURANTE ESTA CLASE.
 
 <div>
-  <img src="imagenes dia4/Imagenia.png" width="300">
-  <img src="imagenes dia4/imageniaprototipo1.png" width="300">
+  <img src="imagenes dia 5/p1.jpeg" width="300">
+  <img src="imagenes dia 5/p2.jpeg" width="300">
+   <img src="imagenes dia 5/p3.jpeg" width="300">
 </div>
 
 ---
