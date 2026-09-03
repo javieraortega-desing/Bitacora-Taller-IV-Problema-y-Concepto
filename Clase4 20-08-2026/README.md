@@ -58,8 +58,8 @@ Este cambio también permitió que el circuito pudiera ocupar mucho menos espaci
 ##Imagenes del circuito
 
 <div>
-  <img src="imagenes dia4/Imagenia.png" width="300">
-  <img src="imagenes dia4/imageniaprototipo1.png" width="300">
+  <img src="imagenes dia4/circuito desordenado.jpg" width="300">
+  <img src="imagenes dia4/circuito ordenado.jpg" width="300">
 </div>
 
 ---
