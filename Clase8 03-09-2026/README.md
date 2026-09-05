@@ -1,38 +1,73 @@
-##CLASE08 03-09-2026
+# 🌐 CLASE 08 — 03/09/2026
 
-##APUNTES CLASE (sin edititar aun)
-CHARLA 
-invitado emilio tronkoso 
-diseño industrial UNIVERSIDAD MAYOR
-profe de fabricacion digital 
-Objetivo genral de  la charla 
-oportunidad el percibir 
-experienccai es iguala sentir vista tacto oidio gusto y blabka memoria sensirial nos conoecta con un omkmento vivido re activa la mempria y deja al objeto
+## Charla invitado: Emilio Troncoso
 
-telelmatic dreaming 1992
+**Diseñador industrial — Universidad Mayor**
+Profesor de **Fabricación Digital**.
 
-remote pulse 2019
+---
 
-emociono tine un signifivado 
-gesto lenguaje mensaje
-tacto comunicacion 
+## 💭 Objetivo general de la charla
 
+La charla se centró en cómo la **experiencia también se puede percibir a través de los sentidos**.
 
-relacional
+👁️ Vista
+✋ Tacto
+👂 Oído
+👅 Gusto
 
+Todo esto se relaciona con la **memoria sensorial**, ya que los sentidos nos pueden conectar con un momento vivido, reactivar recuerdos y generar una relación con un objeto.
 
-materiales sensitivos usados en robotica blanda 
-adaptacion organica al cuerpo
-siliconoa mepsil gel0020
-sensor de precion 
-un tipo de accesrio en la mano q al sentir el pulso de la otra pelsona se infla como respracion de el pulso de l aotra persona para senrtirla 
+---
 
-una llamada es una extencion de tu voz los mensajes osn una extencion de tu mente 
+## 📡 Proyectos mencionados
 
-hacia donde mas esta dirigido el proyecto 
-tela en base a cobre 
-para trabajar ocno diseños en clinicas hay muchas restricciones entoces en tema de materialidades hay e tneer mucho cuidado 
+### Telelmatic Dreaming — 1992
 
+Proyecto relacionado con la experiencia, la comunicación y la conexión entre personas a través de la tecnología.
 
+### Remote Pulse — 2019
 
-chaquta que sinete la musica ++++++
+Proyecto que busca generar una conexión física entre personas a distancia.
+
+Se utilizaban **materiales sensitivos**, similares a los que se usan en la **robótica blanda**, buscando una adaptación más orgánica al cuerpo.
+
+**Materiales mencionados:**
+
+* Silicona
+* MepSil Gel 0020
+* Sensores de presión
+
+Uno de los proyectos consistía en una especie de accesorio para la mano que, al sentir el pulso de otra persona, se inflaba simulando la **respiración o el pulso de la otra persona**, permitiendo de alguna forma sentir su presencia.
+
+---
+
+## 🤝 Comunicación y emoción
+
+La **emoción tiene un significado** y puede comunicarse mediante:
+
+* Gestos
+* Lenguaje
+* Mensajes
+* Tacto
+
+Todo esto genera una comunicación más **relacional** entre las personas.
+
+> Una llamada es una extensión de tu voz.
+> Un mensaje es una extensión de tu mente.
+
+---
+
+## 🧵 Materialidades
+
+También se habló sobre proyectos que utilizan **telas en base a cobre** para trabajar con diseños, especialmente en espacios como clínicas.
+
+En estos lugares existen muchas restricciones, por lo que en el tema de las **materialidades hay que tener mucho cuidado** dependiendo del contexto en el que se va a utilizar el proyecto.
+
+---
+
+## 🎵 Proyecto destacado
+
+### Chaqueta que siente la música
+
+Un proyecto relacionado con una chaqueta capaz de **percibir o sentir la música**, explorando cómo el sonido puede transformarse en una experiencia física a través del cuerpo.
