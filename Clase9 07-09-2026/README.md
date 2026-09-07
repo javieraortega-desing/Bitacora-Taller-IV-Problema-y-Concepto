@@ -1,6 +1,6 @@
-☁️ CLASE 09 — 07/09/2026
+#CLASE 09 — 07/09/2026
 
-Antes de la clase
+##Antes de la clase
 
 Para esta clase nos encargaron realizar un objeto de mínimo 40 × 40 cm, utilizando cartón, luces LED y un concepto que guiara nuestra propuesta.
 
@@ -12,7 +12,7 @@ En un principio retomamos brevemente una idea anterior relacionada con lo nebulo
 
 Sin embargo, esta idea no terminó de convencernos, por lo que decidimos seguir investigando.
 
-Bioluminiscencia
+###Bioluminiscencia
 
 Durante nuestra investigación comenzamos a interesarnos por la bioluminiscencia y los organismos capaces de producir luz.
 
@@ -26,6 +26,7 @@ Nuestra intención era crear un objeto que reaccionara al contacto, utilizando l
 
 En un principio pensamos que, al tocar el honguito, este podría generar una pequeña descarga eléctrica mientras las luces LED reaccionaban.
 
+<sub>Este texto se verá más pequeño y sutil.</sub>
 🚨 Definitivamente una mala idea
 
 Después de pensarlo más seriamente, llegamos a la conclusión de que hacer que nuestro objeto le diera una descarga eléctrica a las personas era definitivamente una mala idea sksksks 😭.
@@ -34,13 +35,13 @@ Por lo tanto, descartamos esa posibilidad y buscamos una forma más segura de re
 
 ---
 
-Exploración de formas
+####Exploración de formas
 
 Después de definir la idea del honguito, comenzamos a explorar diferentes formas utilizando cartón.
 
 Realizamos distintos prototipos para probar qué estructura funcionaba mejor.
 
-Prototipos
+###Prototipos
 
 <p align="center">
   <img src="imagenes dia9/prototipo1.jpg" width="250">
@@ -48,7 +49,7 @@ Prototipos
   <img src="imagenes dia9/prototipo3.jpg" width="250">
 </p>---
 
-Exploración de las luces LED
+###Exploración de las luces LED
 
 También comenzamos a explorar cómo programar y distribuir las luces LED dentro del objeto.
 
@@ -61,6 +62,6 @@ Buscamos que la luz saliera desde esta parte para representar la bioluminiscenci
   <img src="imagenes dia9/leds2.jpg" width="250">
 </p>---
 
-📝 Apuntes y correcciones de la clase
+##📝 Apuntes y correcciones de la clase
 
 En esta sección agregaré los apuntes, correcciones y recomendaciones que nos entreguen los profesores durante la clase.
