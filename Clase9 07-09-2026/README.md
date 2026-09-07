@@ -1,68 +1,70 @@
-# CLASE 09 — 07/09/2026
+CLASE 09 — 07/09/2026
 
-## Antes de la clase
+Antes de la clase
 
-Para esta clase nos encargaron realizar un **objeto de mínimo 40 × 40 cm**, utilizando **cartón, luces LED y un concepto** que guiara nuestra propuesta.
+Para esta clase nos encargaron realizar un objeto de mínimo 40 × 40 cm, utilizando cartón, luces LED y un concepto que guiara nuestra propuesta.
 
-Junto a mi compañera comenzamos a investigar diferentes posibilidades para desarrollar nuestro objeto. Al principio, retomamos ideas de un trabajo anterior que habíamos intentado realizar, el cual estaba basado en el concepto de **lo nebuloso**.
+Junto a mi compañera comenzamos a investigar diferentes posibilidades para nuestro objeto.
 
----
+Una idea que quedó en el camino: lo nebuloso
 
-## Primeras exploraciones: lo nebuloso
+En un principio retomamos brevemente una idea anterior relacionada con lo nebuloso, explorando nubes, relleno de almohada y luces LED.
 
-Comenzamos investigando las **nubes** y la sensación que generan, pensando en cómo podríamos representar esa idea mediante diferentes materiales.
+Sin embargo, esta idea no terminó de convencernos, por lo que decidimos seguir investigando.
 
-Algunas de las materialidades que comenzamos a considerar fueron:
+Bioluminiscencia
 
-* Cartón
-* Relleno de almohada
-* Luces LED
+Durante nuestra investigación comenzamos a interesarnos por la bioluminiscencia y los organismos capaces de producir luz.
 
-La idea era experimentar con estos materiales para lograr una sensación similar a una nube o algo **nebuloso**, utilizando principalmente la luz y las texturas.
+Finalmente, nos llamaron especialmente la atención los hongos bioluminiscentes y su estética en ambientes oscuros.
 
-Sin embargo, mientras continuábamos investigando, comenzamos a acercarnos a otra idea que nos llamó mucho más la atención.
+A partir de esto comenzó a surgir la idea de crear nuestro propio honguito bioluminiscente. 🍄✨
 
----
+Primera idea del objeto
 
-# Bioluminiscencia
+Nuestra intención era crear un objeto que reaccionara al contacto, utilizando las luces como una especie de mecanismo de defensa.
 
-Aunque todavía no tenemos definido completamente nuestro concepto, comenzamos a investigar sobre la **bioluminiscencia** y diferentes animales y organismos capaces de producir luz.
+En un principio pensamos que, al tocar el honguito, este podría generar una pequeña descarga eléctrica mientras las luces LED reaccionaban.
 
-Nos interesó especialmente la relación entre la luz, la naturaleza y los **mecanismos de defensa**.
+🚨 Definitivamente una mala idea
 
-Durante nuestra investigación encontramos referencias relacionadas con animales bioluminiscentes, entre ellas una **medusa** que, al ser tocada, genera una reacción como mecanismo de defensa.
+Después de pensarlo más seriamente, llegamos a la conclusión de que hacer que nuestro objeto le diera una descarga eléctrica a las personas era definitivamente una mala idea sksksks 😭.
 
-También comenzamos a investigar sobre los **hongos bioluminiscentes**, ya que nos interesaba la estética que generan en ambientes oscuros.
+Por lo tanto, descartamos esa posibilidad y buscamos una forma más segura de representar esta reacción.
 
 ---
 
-## Primera idea del objeto
+Exploración de formas
 
-A partir de estas referencias, comenzamos a imaginar un objeto bioluminiscente que se viera visualmente llamativo, pero que al mismo tiempo pudiera transmitir una sensación de **peligro**.
+Después de definir la idea del honguito, comenzamos a explorar diferentes formas utilizando cartón.
 
-La idea inicial sería crear una especie de organismo u objeto bioluminiscente que:
+Realizamos distintos prototipos para probar qué estructura funcionaba mejor.
 
-* Emitiera luz.
-* Generara una sensación de peligro.
-* Reaccionara al momento de ser tocado.
-* Activara o modificara las luces como una especie de **método de defensa**.
+Prototipos
 
-Una de las ideas que comenzamos a pensar fue que, al tocar el objeto, este pudiera generar una **pequeña reacción eléctrica**, mientras las luces LED reaccionan simultáneamente.
+<p align="center">
+  <img src="imagenes dia9/prototipo1.jpg" width="250">
+  <img src="imagenes dia9/prototipo2.jpg" width="250">
+  <img src="imagenes dia9/prototipo3.jpg" width="250">
+</p>---
 
-> **La luz funcionaría como una señal de defensa, inspirándonos en los mecanismos que utilizan algunos organismos de la naturaleza.**
+Exploración de las luces LED
 
----
+También comenzamos a explorar cómo programar y distribuir las luces LED dentro del objeto.
 
-## Próximo proceso
+La idea fue soldarlas formando un círculo para rodear la parte inferior del sombrero del honguito, específicamente las láminas. 🍄
 
-Hasta el momento esta es la idea inicial de nuestro proyecto.
+Buscamos que la luz saliera desde esta parte para representar la bioluminiscencia.
 
-Hoy, **sábado 05 de septiembre**, comenzaré a investigar si es factible realizar un circuito que permita que, al tocar el objeto, se genere una reacción y que las luces LED respondan a ese contacto como un mecanismo de defensa.
+<p align="center">
+  <img src="imagenes dia9/leds1.jpg" width="250">
+  <img src="imagenes dia9/leds2.jpg" width="250">
+</p>---
 
-Todavía debo investigar cómo funcionaría este sistema y comenzar con las primeras pruebas para saber si la idea es posible de realizar antes de la entrega del proyecto.
+📝 Apuntes y correcciones de la clase
 
----
+En esta sección agregaré los apuntes, correcciones y recomendaciones que nos entreguen los profesores durante la clase.
 
-## Proceso de exploración
+Próximamente...
 
-*Próximamente agregaré aquí todo el proceso de investigación, pruebas de circuitos, exploración de materiales, errores y avances realizados durante la construcción del objeto.*
+«Aquí iré registrando los cambios y nuevas ideas que surjan durante la clase.»
