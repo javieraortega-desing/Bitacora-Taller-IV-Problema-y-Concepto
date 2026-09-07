@@ -1,4 +1,4 @@
-CLASE 09 — 07/09/2026
+☁️ CLASE 09 — 07/09/2026
 
 Antes de la clase
 
@@ -64,7 +64,3 @@ Buscamos que la luz saliera desde esta parte para representar la bioluminiscenci
 📝 Apuntes y correcciones de la clase
 
 En esta sección agregaré los apuntes, correcciones y recomendaciones que nos entreguen los profesores durante la clase.
-
-Próximamente...
-
-«Aquí iré registrando los cambios y nuevas ideas que surjan durante la clase.»
