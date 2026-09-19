@@ -60,11 +60,13 @@ Realizamos distintos prototipos para probar qué estructura funcionaba mejor y c
 
 Durante la exploración realizamos diferentes pruebas de forma y estructura:
 
-![Prototipo 1](https://github.com/javieraortega-desing/Bitacora-Taller-IV-Problema-y-Concepto/blob/main/Clase9%2007-09-2026/imagenes%20dia9/prototipo1.jpg)
 
-![Prototipo 2](https://github.com/javieraortega-desing/Bitacora-Taller-IV-Problema-y-Concepto/blob/main/Clase9%2007-09-2026/imagenes%20dia9/prototipo2.jpg)
-
-![Prototipo 3](https://github.com/javieraortega-desing/Bitacora-Taller-IV-Problema-y-Concepto/blob/main/Clase9%2007-09-2026/imagenes%20dia9/prototipo3.jpg)
+<div>
+  <img src="bitacora img/hongo1.jpeg" width="300">
+  <img src="bitacora img/hongo2.jpeg" width="300">
+  <img src="bitacora img/hongo 3.jpeg" width="300">
+  <img src="bitacora img/hongo 4.jpeg" width="300">
+</div>
 
 Estas pruebas nos ayudaron a entender cómo llevar la forma del hongo a una estructura de mayor tamaño y qué partes necesitaban modificarse para que el objeto fuera más estable.
 
