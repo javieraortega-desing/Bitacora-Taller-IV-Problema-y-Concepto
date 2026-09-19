@@ -14,6 +14,10 @@ En un principio retomamos brevemente una idea anterior relacionada con **lo nebu
 
 Sin embargo, esta idea no terminó de convencernos, por lo que decidimos seguir investigando y buscar otras posibilidades.
 
+<div>
+  <img src="imagenes dia 5/p1.jpeg" width="300">
+</div>
+
 ---
 
 ## ✨ Bioluminiscencia
