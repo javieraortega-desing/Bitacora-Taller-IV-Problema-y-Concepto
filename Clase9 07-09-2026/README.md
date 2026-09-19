@@ -81,6 +81,7 @@ La idea fue soldarlas formando un **círculo** para rodear la parte inferior del
 Buscamos que la luz saliera desde esta parte para representar la **bioluminiscencia** y hacer que el efecto de iluminación pareciera venir desde el interior del hongo.
 
 <div>
-  <img src="bitacora img/luces 1.jpeg" width="200">
-  <img src="bitacora img/luces 2.jpeg" width="200">
+  <img src="bitacora img/luces 1.png" width="200">
+  <img src="bitacora img/luces 2.png" width="200">
+  <img src="bitacora img/proceso.jpeg" width="200">
 </div>
