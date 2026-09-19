@@ -42,7 +42,7 @@ La estructura principal se realizó mediante **alambre**, creando una serie de c
 Para integrar el circuito y evitar que los componentes quedaran completamente expuestos, incorporamos una **tela en la parte inferior de la estructura**. Esta funciona también como un difusor, permitiendo que la luz de los LED se distribuya de manera más suave y genere una apariencia más cercana a una iluminación bioluminiscente.
 
 <div>
-  <img src="bitacora img/bioluminicencia.jpeg" width="300">
+  <img src="bitacora img/resultado1.jpeg" width="300">
 </div>
 
 ## 💡 Proceso del circuito
