@@ -62,10 +62,10 @@ Durante la exploración realizamos diferentes pruebas de forma y estructura:
 
 
 <div>
-  <img src="bitacora img/hongo1.jpeg" width="300">
-  <img src="bitacora img/hongo2.jpeg" width="300">
-  <img src="bitacora img/hongo 3.jpeg" width="300">
-  <img src="bitacora img/hongo 4.jpeg" width="300">
+  <img src="bitacora img/hongo1.jpeg" width="200">
+  <img src="bitacora img/hongo2.jpeg" width="200">
+  <img src="bitacora img/hongo 3.jpeg" width="200">
+  <img src="bitacora img/hongo 4.jpeg" width="200">
 </div>
 
 Estas pruebas nos ayudaron a entender cómo llevar la forma del hongo a una estructura de mayor tamaño y qué partes necesitaban modificarse para que el objeto fuera más estable.
@@ -80,6 +80,7 @@ La idea fue soldarlas formando un **círculo** para rodear la parte inferior del
 
 Buscamos que la luz saliera desde esta parte para representar la **bioluminiscencia** y hacer que el efecto de iluminación pareciera venir desde el interior del hongo.
 
-![LEDs 1](https://github.com/javieraortega-desing/Bitacora-Taller-IV-Problema-y-Concepto/blob/main/Clase9%2007-09-2026/imagenes%20dia9/leds1.jpg)
-
-![LEDs 2](https://github.com/javieraortega-desing/Bitacora-Taller-IV-Problema-y-Concepto/blob/main/Clase9%2007-09-2026/imagenes%20dia9/leds2.jpg)
+<div>
+  <img src="bitacora img/luces 1.jpeg" width="200">
+  <img src="bitacora img/luces 2.jpeg" width="200">
+</div>
