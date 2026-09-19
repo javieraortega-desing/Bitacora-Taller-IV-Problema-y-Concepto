@@ -19,7 +19,7 @@ A partir de estas referencias comenzamos a reducir la forma del hongo a elemento
 <div>
   <img src="bitacora img/inspiracion3.jpeg" width="200">
    <img src="bitacora img/inspiracion5.jpeg" width="200">
-   <img src="bitacora img/inspiracion2.jpeg" width="200">
+   <img src="bitacora img/(MHNT)_Clathrus_ruber.jpg" width="200">
 </div>
 
 ## 🕸️ Referente: Sui Park
