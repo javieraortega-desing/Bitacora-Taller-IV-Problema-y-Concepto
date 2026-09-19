@@ -4,9 +4,9 @@
 
 Para esta clase se nos pidió **replantear completamente la forma desarrollada anteriormente** y comenzar a experimentar con distintas materialidades, llegando a un objeto terminado de al menos **40 × 40 cm**.
 
-Aunque la actividad correspondía a una semana que se suponía sería de receso, aprovechamos este tiempo para avanzar igualmente en el proyecto y utilizarlo para **reformular la propuesta desde cero**. Porque claramente una semana de “descanso” era el momento perfecto para replantear un objeto completo :) .
+Aunque la actividad correspondía a una semana que se suponía sería de receso. Porque claramente una semana de “descanso” era el momento perfecto para replantear un objeto completo :) .
 
-Durante este proceso decidimos dejar atrás la forma inicial y comenzar a **abstraer directamente elementos de hongos**, buscando que el objeto no fuera una representación literal, sino una interpretación de sus estructuras y texturas.
+Durante este proceso decidimos dejar atrás la forma inicial y comenzar a **abstraer directamente el hongo**, buscando que el objeto no fuera una representación literal, sino una interpretación de sus estructuras y texturas.
 
 ## 🍄 Investigación de hongos
 
@@ -25,8 +25,6 @@ Me interesa cómo sus estructuras pueden recordar a **organismos alienígenas, h
 Esta referencia se relaciona directamente con nuestra propuesta, ya que buscamos que la forma del hongo se perciba como un **organismo vivo, extraño y potencialmente peligroso**.
 
 ## 🧵 Proceso de construcción
-
-A partir de los referentes comenzamos a construir la nueva forma utilizando **materialidades variadas**, buscando que la estructura pudiera alcanzar una escala mayor a 40 × 40 cm.
 
 La estructura principal se realizó mediante **alambre**, creando una serie de cúpulas inspiradas en la abstracción de la red del *Clathrus ruber*. La repetición de estas piezas permite que el objeto mantenga una apariencia orgánica y de crecimiento.
 
@@ -55,8 +53,6 @@ Una de las primeras ideas era que el organismo tuviera una segunda reacción cua
 Sin embargo, esta parte no pudo ser implementada.
 
 No contábamos con todos los componentes necesarios ni con la experiencia suficiente para integrar correctamente los humidificadores al circuito sin arriesgarnos a generar problemas en la conexión. Por esta razón, decidimos mantener el humidificador como parte de la **abstracción visual del hongo**, incorporándolo constantemente dentro de la estructura en lugar de hacerlo depender del sensor.
-
-Este fallo terminó siendo parte del proceso, ya que nos permitió entender que no todas las ideas iniciales pueden llegar directamente al resultado final y que también es necesario adaptar el concepto a las posibilidades reales del prototipo.
 
 ## 🟢 Concepto: defensa visual
 
