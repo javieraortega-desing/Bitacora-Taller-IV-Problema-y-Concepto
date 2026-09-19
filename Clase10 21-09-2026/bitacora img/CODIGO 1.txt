@@ -1,0 +1,113 @@
+#include <Adafruit_NeoPixel.h>
+
+// ==========================================
+// CONFIGURACIÓN DE PINES Y HARDWARE
+// ==========================================
+// Sensor 1
+const int TRIG_1 = 22;
+const int ECHO_1 = 23;
+
+// Sensor 2
+const int TRIG_2 = 16;
+const int ECHO_2 = 21;
+
+// Tira LED
+const int PIN_LEDS = 13;
+const int NUM_LEDS = 90;
+
+// Inicializamos la tira LED (Formato GRB es el estándar para la mayoría)
+Adafruit_NeoPixel leds(NUM_LEDS, PIN_LEDS, NEO_GRB + NEO_KHZ800);
+
+// ==========================================
+// FUNCIÓN PARA MEDIR DISTANCIA
+// ==========================================
+float medirDistancia(int pinTrig, int pinEcho) {
+  // Aseguramos que el pin esté bajo antes del pulso
+  digitalWrite(pinTrig, LOW);
+  delayMicroseconds(2);
+  // Enviamos pulso de 10 microsegundos
+  digitalWrite(pinTrig, HIGH);
+  delayMicroseconds(10);
+  digitalWrite(pinTrig, LOW);
+
+  // Leemos el tiempo de respuesta (Timeout de 30ms para no bloquear)
+  long duracion = pulseIn(pinEcho, HIGH, 30000);
+
+  if (duracion == 0) {
+    return 999.0; // Devuelve 999 si no detecta nada o falla
+  }
+
+  // Calculamos la distancia en cm
+  return (duracion * 0.0343) / 2.0;
+}
+
+// ==========================================
+// FUNCIÓN PARA CAMBIAR COLOR DE TODOS LOS LEDS
+// ==========================================
+void fijarColor(uint32_t color) {
+  for(int i = 0; i < NUM_LEDS; i++) {
+    leds.setPixelColor(i, color);
+  }
+  leds.show();
+}
+
+void setup() {
+  Serial.begin(115200);
+
+  // Configurar pines de los sensores
+  pinMode(TRIG_1, OUTPUT);
+  pinMode(ECHO_1, INPUT);
+  pinMode(TRIG_2, OUTPUT);
+  pinMode(ECHO_2, INPUT);
+
+  // Iniciar Tira LED
+  leds.begin();
+  leds.show(); // Inicializa todos los LEDs apagados
+  leds.setBrightness(150); // Brillo del 0 al 255 (150 es un buen balance)
+  
+  Serial.println("Sistema iniciado. Esperando lecturas...");
+}
+
+void loop() {
+  // 1. Leer distancias
+  float dist1 = medirDistancia(TRIG_1, ECHO_1);
+  delay(15); // Pausa corta para que no choquen los ecos
+  float dist2 = medirDistancia(TRIG_2, ECHO_2);
+
+  // Mostrar en consola (opcional, útil para calibrar)
+  Serial.print("S1: "); Serial.print(dist1);
+  Serial.print(" cm | S2: "); Serial.print(dist2);
+  Serial.println(" cm");
+
+  // 2. Encontrar la distancia más cercana para reaccionar
+  float distanciaReal = 999.0;
+  
+  if (dist1 > 0 && dist1 < distanciaReal) distanciaReal = dist1;
+  if (dist2 > 0 && dist2 < distanciaReal) distanciaReal = dist2;
+
+  // 3. Lógica de colores según la distancia
+  // Definimos los colores en formato RGB (Rojo, Verde, Azul)
+  uint32_t VERDE = leds.Color(0, 255, 0);
+  uint32_t AMARILLO = leds.Color(255, 255, 0);
+  uint32_t ROJO = leds.Color(255, 0, 0);
+  uint32_t APAGADO = leds.Color(0, 0, 0);
+
+  if (distanciaReal <= 15.0) {
+    // Menos de 15 cm: ROJO ESTABLE
+    fijarColor(ROJO);
+    
+  } else if (distanciaReal <= 30.0) {
+    // Entre 16 y 30 cm: AMARILLO ESTABLE
+    fijarColor(AMARILLO);
+    
+  } else if (distanciaReal <= 40.0) {
+    // Entre 31 y 40 cm: VERDE ESTABLE
+    fijarColor(VERDE);
+    
+  } else {
+    // Más de 40 cm: APAGADO
+    fijarColor(APAGADO);
+  }
+
+  delay(100); // Pequeña pausa para no saturar el microcontrolador
+}
