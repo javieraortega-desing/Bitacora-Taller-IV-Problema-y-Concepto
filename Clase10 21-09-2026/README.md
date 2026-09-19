@@ -32,6 +32,7 @@ Esta referencia se relaciona directamente con nuestra propuesta, ya que buscamos
 
 <div>
   <img src="bitacora img/inspiracion4.jpeg" width="300">
+   <img src="bitacora img/inspiracion1.jpeg" width="300">
 </div>
 
 
