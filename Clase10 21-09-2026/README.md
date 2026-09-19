@@ -58,7 +58,9 @@ El código fue desarrollado en **C++ mediante Arduino IDE** y posteriormente car
 **Proceso:**
 
 <div>
-  <img src="bitacora img/bioluminicencia.jpeg" width="300">
+  <img src="bitacora img/circuito1.jpeg" width="200">
+  <img src="bitacora img/circuito2.jpeg" width="200">
+  <img src="bitacora img/circuito3.jpeg" width="200">
 </div>
 
 **Sensor ultrasónico → ESP32 → procesamiento de distancia → cambio en los LED**
