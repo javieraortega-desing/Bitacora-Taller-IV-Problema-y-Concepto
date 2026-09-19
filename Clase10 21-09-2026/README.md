@@ -31,7 +31,7 @@ Me interesa cómo sus estructuras pueden recordar a **organismos alienígenas, h
 Esta referencia se relaciona directamente con nuestra propuesta, ya que buscamos que la forma del hongo se perciba como un **organismo vivo, extraño y potencialmente peligroso**.
 
 <div>
-  <img src="bitacora img/bioluminicencia.jpeg" width="300">
+  <img src="bitacora img/inspiracion4.jpeg" width="300">
 </div>
 
 
