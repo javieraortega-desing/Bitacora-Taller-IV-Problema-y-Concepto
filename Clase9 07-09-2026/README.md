@@ -73,9 +73,3 @@ Buscamos que la luz saliera desde esta parte para representar la **bioluminiscen
 ![LEDs 1](https://github.com/javieraortega-desing/Bitacora-Taller-IV-Problema-y-Concepto/blob/main/Clase9%2007-09-2026/imagenes%20dia9/leds1.jpg)
 
 ![LEDs 2](https://github.com/javieraortega-desing/Bitacora-Taller-IV-Problema-y-Concepto/blob/main/Clase9%2007-09-2026/imagenes%20dia9/leds2.jpg)
-
----
-
-## 📝 Apuntes y correcciones de la clase
-
-En esta sección agregaré los **apuntes, correcciones y recomendaciones** que nos entreguen los profesores durante la clase.
