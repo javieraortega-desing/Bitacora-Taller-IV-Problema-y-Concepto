@@ -76,7 +76,9 @@ Sin embargo, esta parte no pudo ser implementada.
 No contábamos con todos los componentes necesarios ni con la experiencia suficiente para integrar correctamente los humidificadores al circuito sin arriesgarnos a generar problemas en la conexión. Por esta razón, decidimos mantener el humidificador como parte de la **abstracción visual del hongo**, incorporándolo constantemente dentro de la estructura en lugar de hacerlo depender del sensor.
 
 <div>
-  <img src="bitacora img/bioluminicencia.jpeg" width="300">
+  <img src="bitacora img/humificador.jpeg" width="200">
+  <img src="bitacora img/humificador2.jpeg" width="200">
+  <img src="bitacora img/humificador3.jpeg" width="200">
 </div>
 
 ## 🟢 Concepto: defensa visual
