@@ -17,7 +17,9 @@ También investigamos el **Clathrus ruber**, un hongo cuya estructura está form
 A partir de estas referencias comenzamos a reducir la forma del hongo a elementos más simples, principalmente **cúpulas y estructuras repetitivas**, manteniendo la sensación de crecimiento y organismo.
 
 <div>
-  <img src="bitacora img/bioluminicencia.jpeg" width="300">
+  <img src="bitacora img/inspiracion3.jpeg" width="200">
+   <img src="bitacora img/inspiracion5.jpeg" width="200">
+   <img src="bitacora img/inspiracion2.jpeg" width="200">
 </div>
 
 ## 🕸️ Referente: Sui Park
