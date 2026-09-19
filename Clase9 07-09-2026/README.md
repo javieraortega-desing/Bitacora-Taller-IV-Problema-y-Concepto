@@ -28,6 +28,10 @@ Finalmente, nos llamaron especialmente la atención los **hongos bioluminiscente
 
 A partir de esto comenzó a surgir la idea de crear nuestro propio **honguito bioluminiscente**. 🍄
 
+<div>
+  <img src="bitacora img/bioluminicencia.jpeg" width="300">
+</div>
+
 ---
 
 ## ⚠️ Primera idea del objeto
