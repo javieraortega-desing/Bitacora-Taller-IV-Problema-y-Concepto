@@ -1,0 +1,143 @@
+#include <Adafruit_NeoPixel.h>
+
+// ==========================================
+// CONFIGURACIÓN DE PINES Y HARDWARE
+// ==========================================
+const int TRIG_1 = 22;
+const int ECHO_1 = 23;
+
+const int TRIG_2 = 16;
+const int ECHO_2 = 21;
+
+const int PIN_LEDS = 13;
+const int NUM_LEDS = 90;
+
+Adafruit_NeoPixel leds(NUM_LEDS, PIN_LEDS, NEO_GRB + NEO_KHZ800);
+
+// ==========================================
+// FUNCIÓN PARA MEDIR DISTANCIA
+// ==========================================
+float medirDistancia(int pinTrig, int pinEcho) {
+  digitalWrite(pinTrig, LOW);
+  delayMicroseconds(2);
+  digitalWrite(pinTrig, HIGH);
+  delayMicroseconds(10);
+  digitalWrite(pinTrig, LOW);
+
+  long duracion = pulseIn(pinEcho, HIGH, 30000); // Timeout 30ms
+
+  if (duracion == 0) {
+    return 999.0;
+  }
+
+  return (duracion * 0.0343) / 2.0;
+}
+
+// ==========================================
+// FUNCIÓN AUXILIAR PARA PINTAR LA TIRA
+// ==========================================
+void fijarColorTodo(uint8_t r, uint8_t g, uint8_t b) {
+  for(int i = 0; i < NUM_LEDS; i++) {
+    leds.setPixelColor(i, leds.Color(r, g, b));
+  }
+  leds.show();
+}
+
+void setup() {
+  Serial.begin(115200);
+
+  pinMode(TRIG_1, OUTPUT);
+  pinMode(ECHO_1, INPUT);
+  pinMode(TRIG_2, OUTPUT);
+  pinMode(ECHO_2, INPUT);
+
+  leds.begin();
+  leds.show();
+  leds.setBrightness(255);
+  
+  Serial.println("Sistema interactivo de alto contraste iniciado...");
+}
+
+void loop() {
+  // 1. Leer distancias de ambos sensores
+  float dist1 = medirDistancia(TRIG_1, ECHO_1);
+  delay(10);
+  float dist2 = medirDistancia(TRIG_2, ECHO_2);
+
+  // Seleccionar la distancia más cercana
+  float distanciaReal = 999.0;
+  if (dist1 > 0 && dist1 < distanciaReal) distanciaReal = dist1;
+  if (dist2 > 0 && dist2 < distanciaReal) distanciaReal = dist2;
+
+  unsigned long ms = millis();
+
+  // 2. Lógica de comportamiento con diferencias marcadas de color y velocidad
+  if (distanciaReal >= 60.0) {
+    // -------------------------------------------------------------
+    // ZONA > 60 CM: Celeste Oceánico / Azul Verdoso (Respiración rápida)
+    // -------------------------------------------------------------
+    float onda = (sin(ms / 350.0) + 1.0) / 2.0; // Pulsación rápida de respiración
+    
+    // Transición profunda de brillo (del 10% al 100%)
+    uint8_t r = 0;
+    uint8_t g = (uint8_t)((30 + onda * 200)); 
+    uint8_t b = (uint8_t)((50 + onda * 205));
+
+    fijarColorTodo(r, g, b);
+
+  } else if (distanciaReal >= 40.0 && distanciaReal < 60.0) {
+    // -------------------------------------------------------------
+    // ZONA 40 A 60 CM: Rosa Neón / Magenta + Verde Lima (Alto contraste)
+    // -------------------------------------------------------------
+    float onda = (sin(ms / 200.0) + 1.0) / 2.0; // Respiración muy acelerada
+    
+    // Cambia dramáticamente entre Magenta Eléctrico y Verde Lima Neón
+    uint8_t r = (uint8_t)(onda * 255);
+    uint8_t g = (uint8_t)((1.0 - onda) * 255);
+    uint8_t b = (uint8_t)(onda * 180);
+
+    fijarColorTodo(r, g, b);
+
+  } else if (distanciaReal >= 20.0 && distanciaReal < 40.0) {
+    // -------------------------------------------------------------
+    // ZONA 20 A 40 CM: AURORA CAÓTICA (Púrpura, Azul, Amarillo, Verde)
+    // -------------------------------------------------------------
+    float paso = ms / 120.0; // Transición multicolor hiperactiva
+    
+    // Generación de 3 ondas totalmente independientes para máxima variabilidad
+    uint8_t r = (uint8_t)((sin(paso) + 1.0) * 127.5);
+    uint8_t g = (uint8_t)((sin(paso * 1.5 + 2.0) + 1.0) * 127.5);
+    uint8_t b = (uint8_t)((cos(paso * 0.8) + 1.0) * 127.5);
+
+    fijarColorTodo(r, g, b);
+
+  } else if (distanciaReal >= 10.0 && distanciaReal < 20.0) {
+    // -------------------------------------------------------------
+    // ZONA 10 A 20 CM: Estroboscópico Frío Hipnótico (Blanco Hielo / Violeta / Cian)
+    // -------------------------------------------------------------
+    int pasoFrio = (ms / 40) % 3; // Ráfaga ultra rápida
+    
+    if (pasoFrio == 0) {
+      fijarColorTodo(255, 255, 255); // Blanco encandilante
+    } else if (pasoFrio == 1) {
+      fijarColorTodo(0, 255, 230);   // Cian Hielo
+    } else {
+      fijarColorTodo(180, 0, 255);   // Violeta Neón
+    }
+
+  } else {
+    // -------------------------------------------------------------
+    // ZONA MENOR A 10 CM: Apagado drástico / Colapso
+    // -------------------------------------------------------------
+    // Caída rápida a cero para que se sienta el apagado inmediato al acercarse
+    if (distanciaReal < 4.0) {
+      fijarColorTodo(0, 0, 0); // Apagado total definitivo
+    } else {
+      // Breve destello tenue que se extingue rápido
+      uint8_t tenue = (uint8_t)((distanciaReal / 10.0) * 40);
+      fijarColorTodo(tenue, 0, tenue); 
+    }
+  }
+
+  delay(10); // Refresco ultra fluido
+}
