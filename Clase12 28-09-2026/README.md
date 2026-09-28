@@ -28,3 +28,13 @@ Entender el código generado es fundamental. Si no puedes explicarlo, tampoco po
 
 ---
 
+reposo qu hace cuando nadie interactua repira lento 
+imput tirgger que accion activa 
+output como reacciona 
+transiscion conque ritmo cambia 
+retorno com ovuelve al reposo 
+
+dimmer de apokito ensendido 
+maximo brillo sinta led 255 
+pedirle a la ia q me comente cada linea oo q me comente solo las lineas q pueda modificar oo etc 
+
