@@ -35,8 +35,7 @@ En cuanto a la programación, nos señalaron la necesidad de pulir las transicio
 * **Programación:** optimizar la respuesta de los sensores y evitar bloqueos cuando las personas se acercan rápidamente.
 * **Presentación:** mejorar la manera en que comunicamos el concepto, el funcionamiento y las decisiones formales del proyecto.
 
-### 5. Reflexión de la clase
+### 5. Imágenes de este día 
 
-Esta corrección nos permitió reconocer que, aunque hemos avanzado considerablemente en la construcción del objeto y el circuito, todavía existen aspectos importantes por resolver. Nos enfocamos principalmente en lograr que la instalación funcionara y tuviera la forma deseada, dejando en segundo plano algunos detalles de montaje y presentación.
 
-A partir de las observaciones, el siguiente paso es **consolidar la integración entre estructura, iluminación y programación**, procurando que la interacción sea continua y que todos los componentes formen parte de una misma propuesta.
+
