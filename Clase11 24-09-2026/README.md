@@ -37,5 +37,11 @@ En cuanto a la programación, nos señalaron la necesidad de pulir las transicio
 
 ### 5. Imágenes de este día 
 
+<div>
+  <img src="imagenes dia 5/p1.jpeg" width="300">
+  <img src="imagenes dia 5/p2.jpeg" width="300">
+   <img src="imagenes dia 5/p3.jpeg" width="300">
+</div>
+
 
 
