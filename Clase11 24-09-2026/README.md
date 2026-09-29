@@ -38,9 +38,10 @@ En cuanto a la programación, nos señalaron la necesidad de pulir las transicio
 ### 5. Imágenes de este día 
 
 <div>
-  <img src="imagenes/montaje01.jpeg" width="300">
-  <img src="imagenes dia 5/p2.jpeg" width="300">
-   <img src="imagenes dia 5/p3.jpeg" width="300">
+  <img src="imagenes/montaje01.jpeg" width="200">
+  <img src="imagenes/montaje02.jpeg" width="200">
+   <img src="imagenes/protoboard.jpeg" width="200">
+  <img src="imagenes/sensor.jpeg" width="200">
 </div>
 
 
