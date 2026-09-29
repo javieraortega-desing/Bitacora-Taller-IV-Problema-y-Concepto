@@ -41,7 +41,7 @@ En cuanto a la programación, nos señalaron la necesidad de pulir las transicio
   <img src="imagenes/montaje01.jpeg" width="200">
   <img src="imagenes/montaje02.jpeg" width="200">
    <img src="imagenes/protoboard.jpeg" width="200">
-  <img src="imagenes/sensor.jpeg" width="200">
+  <img src="imagenes/sesor.jpeg" width="200">
 </div>
 
 
