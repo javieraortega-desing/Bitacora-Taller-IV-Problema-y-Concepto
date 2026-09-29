@@ -1,6 +1,6 @@
 # Clase 12 — Vibecoding
 
-**Fecha:** 29-09-2026
+**Fecha:** 28-09-2026
 
 ## Antes de la clase
 
