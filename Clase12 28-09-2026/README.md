@@ -1,40 +1,37 @@
-# 💻 APUNTES DE CLASE — VIBECODING
+# Clase 12 — Vibecoding
 
-## 1. Proceso de trabajo
+**Fecha:** 29-09-2026
 
-1. **Describir:** definir con palabras la interacción que se quiere lograr.
-2. **Generar:** utilizar la IA para crear el código a partir de las instrucciones.
-3. **Verificar:** revisar los pines, las librerías y los rangos de funcionamiento.
-4. **Probar:** cargar el código en el ESP32 y comprobar su funcionamiento.
-5. **Observar:** analizar los resultados, detectar errores y realizar ajustes.
+## Antes de la clase
 
----
+Se nos encargó desarrollar ejercicios prácticos con ESP32 para comprender la programación de entradas y salidas. El trabajo consistía en tres ejercicios progresivos: hacer parpadear un LED, controlarlo mediante un pulsador y, finalmente, encenderlo y apagarlo desde una página web utilizando la red WiFi de la placa.
 
-## 2. Criterio de diseño
+Para el tercer ejercicio se permitía utilizar IA, siempre que pudiéramos comprender y explicar el código generado.
 
-La IA propone, el diseñador decide. El uso de la inteligencia artificial requiere mantener un criterio propio durante todo el proceso.
+## Durante la clase
 
-### Intención
+### Desarrollo de los ejercicios
 
-Definir qué se quiere comunicar y qué debe transmitir la luz. Si no existe una intención clara, la IA termina tomando decisiones de diseño por nosotros.
+* **Ejercicio 1 — Blink:** programamos un LED para que se encendiera y apagara cada segundo, utilizando `OUTPUT`, `digitalWrite()` y `delay()`.
+* **Ejercicio 2 — Pulsador:** incorporamos un botón para controlar el LED mientras permanecía presionado, trabajando con `INPUT_PULLUP` y `digitalRead()`.
+* **Ejercicio 3 — Control por WiFi:** intentamos generar con IA un código que permitiera controlar el LED desde una página web. Sin embargo, decidimos escribirlo manualmente, ya que nos resultaba más difícil identificar y corregir los errores del código generado.
 
-### Juicio
+### Criterios de interacción
 
-Evaluar las propuestas y decidir cuál funciona, cuál sobra y cuál resulta genérica. **Aceptar una propuesta no es lo mismo que elegirla.**
+Durante la clase, abordamos los elementos fundamentales para definir el comportamiento de un objeto interactivo:
 
-### Comprensión
+* **Reposo:** qué hace el objeto cuando nadie interactúa con él; por ejemplo, respirar lentamente mediante la luz.
+* **Input / Trigger:** qué estímulo o acción activa la interacción.
+* **Output:** cómo responde el objeto ante ese estímulo.
+* **Transición:** con qué ritmo e intensidad cambia entre estados.
+* **Retorno:** cómo vuelve progresivamente al estado de reposo.
 
-Entender el código generado es fundamental. Si no puedes explicarlo, tampoco podrás defenderlo, modificarlo ni reparar sus errores.
+También revisamos el uso del *dimmer* para aumentar gradualmente el brillo y evitar encendidos bruscos. En las tiras LED, el valor máximo de brillo es 255.
 
----
+## Después de la clase
 
-reposo qu hace cuando nadie interactua repira lento 
-imput tirgger que accion activa 
-output como reacciona 
-transiscion conque ritmo cambia 
-retorno com ovuelve al reposo 
+A partir de los ejercicios y las correcciones, queda como aprendizaje la importancia de comprender el código antes de incorporarlo al proyecto. Para futuras interacciones, es útil solicitar a la IA que comente cada línea o que identifique únicamente aquellas partes que podemos modificar, facilitando la comprensión y los ajustes del programa.
 
-dimmer de apokito ensendido 
-maximo brillo sinta led 255 
-pedirle a la ia q me comente cada linea oo q me comente solo las lineas q pueda modificar oo etc 
+El principal aprendizaje es que el código debe responder a una intención de diseño: definir qué comunica la luz, cómo reacciona ante las personas y cómo evoluciona la interacción, en lugar de limitarse a ejecutar acciones técnicas.
+
 
