@@ -16,4 +16,4 @@ Quedaron registrados los contenidos explicados durante la sesión en mis apuntes
 
 ## Registro visual
 
-<img src="imagenes/imagen_circuito-nebuloso.jpeg" width="500">
+<img src="imagenes/Clase21 29-10-2026/WhatsApp Image 2026-11-11 at 21.28.05.jpeg" width="500">
