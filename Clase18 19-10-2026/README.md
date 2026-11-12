@@ -8,7 +8,7 @@ Después de la entrega de nuestra instalación interactiva, comenzábamos una nu
 
 ## Durante la clase
 
-Debido a las catástrofes meteorológicas, la clase se realizó de manera online. Lamentablemente, tuve una muy mala señal de internet durante la sesión, por lo que se me dificultó seguir la clase con normalidad. Aun así, intenté mantenerme lo más presente posible y escuchar lo que se iba conversando.
+Debido a las catástrofes meteorológicas, la clase se realizó de manera online. Lamentablemente, tuve una muy mala señal de internet durante la sesión.
 
 Lo que alcancé a comprender fue que nos hicieron completar un formulario para organizar los próximos grupos de trabajo. El resto de la sesión estuvo principalmente enfocado en conversar y revisar distintos temas relacionados con la asignatura.
 
