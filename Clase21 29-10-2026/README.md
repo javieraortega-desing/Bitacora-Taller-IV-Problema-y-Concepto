@@ -16,4 +16,5 @@ Quedaron registrados los contenidos explicados durante la sesión en mis apuntes
 
 ## Registro visual
 
-![Apuntes de clase sobre sensores](nombre-de-tu-foto.jpg)
+![Apuntes de clase sobre sensores](Clase21 29-10-2026/WhatsApp Image 2026-11-11 at 21.28.05.jpeg)
+  
