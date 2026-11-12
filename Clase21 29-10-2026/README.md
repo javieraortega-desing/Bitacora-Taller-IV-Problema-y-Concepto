@@ -16,4 +16,4 @@ Quedaron registrados los contenidos explicados durante la sesión en mis apuntes
 
 ## Registro visual
 
-![Apuntes de clase sobre sensores]( )
+<img src="imagenes/imagen_circuito-nebuloso.jpeg" width="500">
